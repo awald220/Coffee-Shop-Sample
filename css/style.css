@@ -1,0 +1,78 @@
+body {
+    width: 100%;
+    background-color: #E3DECA;
+}
+
+#header {
+    border: 1px #3C3A1E;
+    width: 10%;
+    color: #3C3A1E;
+    margin-bottom: 5%;
+
+}
+
+#top-section {
+    width: 100%;
+    background-color: #3C3A1E;
+    text-align: center;
+    margin: auto;
+    height: 300px;
+    color: #E3DECA;
+}
+
+#top-section h2{
+    padding-top: 5%;
+}
+
+#top-section p {
+    padding: 0% 3% 5%;
+    
+}
+
+#columns {
+    display: flex;
+    width: 80%;
+    margin: auto;
+    margin-top: -10%;
+ 
+}
+
+#card {
+    flex: 1;
+    background-color: white;
+    margin: 3%;
+    border: 1px solid #3C3A1E;
+    text-align: center;
+    color: #3C3A1E;
+    padding: 2%;
+
+}
+
+#card img {
+    border: 1px solid #cccccc;
+}
+
+#card p {
+    padding: 5%;
+}
+
+#footer {
+    text-align: center;
+    margin-top: 20%;    
+    color: #3C3A1E;
+}
+
+#footer h2 {
+    margin: 1%;
+}
+
+#footer p {
+    margin: 1%;
+    font-size: medium;
+}
+
+#copywrite {
+    font-size: xx-small;
+    margin: 2%;
+    text-align: center;
+}
